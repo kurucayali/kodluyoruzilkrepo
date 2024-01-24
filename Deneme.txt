@@ -1,0 +1,19 @@
+  
+
+  İnsanlar veya şirketler yaptıkları işin karşılığını görmek ve bu doğrultuda ilerlemek isterler. 
+Yapılan işin başarısı kısa vadede edilen ticari kazanç değil, uzun vadeli planların doğru yapılması, 
+kazancın uzun süreler elde edilmesi ve müşterilerin ihtiyacına gerçek cevaplar vermesiyle elde edilmektedir. 
+
+  Ürettiğiniz bir ürün veya verdiğiniz bir hizmet müşteriden karşılık bulduğu sürece devamlılığını sağlar. 
+Günümüzde insanların yaşam tarzı ve hayat hızı, aldıkları bir hizmet veya bir ürün için vakit ayırıp bir 
+anket doldurmasına, mail yazmasına engel oluyor.  Bu sebeple insanların yönelimlerini, tüketimlerini veri 
+toplama yoluyla takip etme ihtiyacı doğmuştur. 
+  
+  Veri kişinin kullandığı bir uygulama ile ziyaret ettiği veya satın aldığı ürünleri aracılığıyla toplanabilir. 
+Burada verinin toplanması kadar, doğru analiz edilmesi de önemlidir.  Kişinin bir sonraki uygulama ziyaretinde 
+satın alma eğilimine göre kampanyalar sunulabilir. 
+
+  Verilerin toplaması, analiz edilmesi, algoritmalar oluşturup tahminler yapılması hayatın her alanında 
+kullanılmaktadır. Perakende satışlar sadece basit bir örnek olacaktır. Endüstriyel üretimde, yeme içme 
+hizmet sektöründe, reklam ve pazarlama alanlarında, kullandığımız otomobillerde bile veri biliminin izleri 
+var ve hayatımızın içine dahada girmeye devam edecek. 
