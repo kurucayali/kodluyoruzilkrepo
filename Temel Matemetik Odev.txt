@@ -1,0 +1,31 @@
+Matematikte Sıfırdan Sonsuza: Limitlerin Sezgisel Anlamı
+
+Matematikte, limit kavramı sıklıkla karşımıza çıkar ve birçok önemli konunun temelini 
+oluşturur. Ancak limitlerin kavranması bazen ezberci bir yaklaşımla yapılmak yerine, 
+daha derinlemesine bir anlayışla ele alınabilir. Bu yazıda, limitlerin sezgisel anlamını 
+keşfedeceğiz ve bu matematiksel kavramın gerçek dünyadaki karşılıklarını inceleyeceğiz.
+
+Limit kavramı, bir fonksiyonun bağımsız değişkeni (genellikle x) bir değere yaklaşırken, 
+fonksiyonun bağımlı değişkeninin (yani, fonksiyonun çıktısı) belirli bir değere 
+yaklaştığını ifade eder. Matematikte sıkça kullanılan bir örnek, x değeri sonsuza 
+giderken 1/x fonksiyonunun davranışını incelemektir. Bu fonksiyonun limiti, x sonsuza 
+yaklaştığında sıfırdır.
+
+Ancak limit kavramını daha geniş bir perspektiften ele alırsak, günlük yaşamımızda da 
+karşımıza çıkar. Örneğin, bir aracın hızı zamanla değişirken, hızın belirli bir değere 
+yaklaştığı bir an vardır. Bu, matematiksel olarak limit kavramının bir yansımasıdır. 
+Aynı şekilde, bir işletmenin kâr marjı zamanla değişirken, kâr marjının belirli bir 
+değere yaklaştığı bir nokta olabilir. Bu da limit kavramının iş dünyasındaki önemini 
+gösterir.
+
+Limit kavramının sezgisel anlamını anlamak için, grafiksel olarak düşünebiliriz. Bir 
+fonksiyonun grafiği üzerinde, belirli bir noktaya yaklaşırken fonksiyonun nasıl 
+davrandığını gözlemleyebiliriz. Bu görsel yaklaşım, limit kavramını daha somut hale 
+getirir ve matematiksel soyutlamaların gerçek dünyadaki uygulamalarını daha iyi 
+anlamamıza yardımcı olur.
+
+Sonuç olarak, limitler matematikte önemli bir kavramdır ve sadece ezberlenmesi değil, 
+aynı zamanda sezgisel olarak anlaşılması da önemlidir. Limit kavramını daha derinlemesine 
+kavramak için, grafiksel, soyutlamalı ve gerçek dünya örneklerini kullanarak yaklaşmak 
+önemlidir. Bu sayede, matematikteki temel kavramları daha iyi kavrayabilir ve 
+matematiksel düşünme becerilerimizi geliştirebiliriz.
